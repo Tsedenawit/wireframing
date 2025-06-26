@@ -42,3 +42,9 @@ Low-fidelity wireframes are simple, rough layouts used early in the design proce
  High fidelity
 
  Figma is a powerful, browser-based design tool widely used for wireframing, UI/UX design, and prototyping. It allows teams to collaborate in real-time, making it ideal for remote work and feedback cycles. Key features include drag-and-drop components, vector editing, interactive prototyping, and design system management. 
+
+ From a software development perspective, wireframing offers several key benefits:
+
+Clarifies Requirements Early — Wireframes help developers and stakeholders visualize the product’s structure and functionality before coding begins, reducing misunderstandings.
+
+Saves Time and Costs — Identifying design issues and workflow problems early prevents costly changes during development.
