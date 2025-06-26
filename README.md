@@ -40,3 +40,5 @@ Low-fidelity wireframes are simple, rough layouts used early in the design proce
  high-fidelity wireframes are detailed, polished designs used later to show visual elements, content, and interactions closer to the final product.
 
  High fidelity
+
+ Figma is a powerful, browser-based design tool widely used for wireframing, UI/UX design, and prototyping. It allows teams to collaborate in real-time, making it ideal for remote work and feedback cycles. Key features include drag-and-drop components, vector editing, interactive prototyping, and design system management. 
