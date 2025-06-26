@@ -34,3 +34,9 @@ Represents how users will interact with the system.
 
 Ensures designers and developers understand required behaviors before building.
 
+Types of Wireframes.
+
+Low-fidelity wireframes are simple, rough layouts used early in the design process to focus on structure and user flow.
+ high-fidelity wireframes are detailed, polished designs used later to show visual elements, content, and interactions closer to the final product.
+
+ High fidelity
